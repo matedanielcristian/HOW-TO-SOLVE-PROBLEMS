@@ -1,6 +1,9 @@
 # HOW-TO-SOLVE-PROBLEMS
 Steps to solve any problems that are related to data structures and algorithms
 
+#### It would be nice to watch this video made by google: Example Coding/Engineering Interview
+https://www.youtube.com/watch?v=XKu_SEDAykw
+
 ## THIS IS JUST A README
 
 # FIRST STEPS
