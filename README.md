@@ -8,8 +8,7 @@ https://www.youtube.com/watch?v=XKu_SEDAykw
 
 # FIRST STEPS
 
-##### 1. When the interviewer says the question, write down the key points at the top (i.e. sorted
-array). Make sure you have all the details. Show how organized you are.
+##### 1. When the interviewer says the question, write down the key points at the top (i.e. sorted array). Make sure you have all the details. Show how organized you are.
 ##### 2. Make sure you double check: What are the inputs? What are the outputs?
 ##### 3. What is the most important value of the problem? Do you have time, and space and memory, etc.. What is the main goal?
 ##### 4. Don't be annoying and ask too many questions.
@@ -22,9 +21,7 @@ array). Make sure you have all the details. Show how organized you are.
 Any repetition, bottlenecks like O(N^2), or unnecessary work? Did you use all the information the interviewer gave you? Bottleneck is the part of the code with the biggest Big O. Focus on that. Sometimes this occurs with repeated work as well.
 ##### 8. Before you start coding, walk through your code and write down the steps you are going to follow.
 ##### 9. Modularize your code from the very beginning. Break up your code into beautiful small pieces and add just comments if you need to.
-##### 10. Start actually writing your code now. Keep in mind that the more you prepare and understand what you need to code, the better the whiteboard will go. So never start a whiteboard interview not being sure of how things are going to work out. That is a recipe for disaster. 
-Keep in mind: A lot of interviews ask questions that you won’t be able to fully answer on time.
-So think: What can I show in order to show that I can do this and I am better than other coders. Break things up in Functions (if you can’t remember a method, just make up a function and you will at least have it there. Write something, and start with the easy part.
+##### 10. Start actually writing your code now. Keep in mind that the more you prepare and understand what you need to code, the better the whiteboard will go. So never start a whiteboard interview not being sure of how things are going to work out. That is a recipe for disaster. Keep in mind: A lot of interviews ask questions that you won’t be able to fully answer on time.So think: What can I show in order to show that I can do this and I am better than other coders. Break things up in Functions (if you can’t remember a method, just make up a function and you will at least have it there. Write something, and start with the easy part.
 ##### 11. Think about error checks and how you can break this code. Never make assumptions about the input. Assume people are trying to break your code and that Darth Vader is using your function. How will you safeguard it? Always check for false inputs that you don’t want. Here is a trick: Comment in the code, the checks that you want to do... write the function, then tell the interviewer that you would write tests now to make your function fail (but you won't need to actually write the tests).
 ##### 12. Don’t use bad/confusing names like i and j. Write code that reads well.
 ##### 13. Test your code: Check for no params, 0, undefined, null, massive arrays, async code, etc... Ask the interviewer if we can make assumption about the code. Can you make the answer return an error? Poke holes into your solution. Are you repeating yourself?
